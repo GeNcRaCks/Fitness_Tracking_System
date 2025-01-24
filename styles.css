@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.webp');
+    background-size: cover;
+    color: #333;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px 20px;
+    position: relative;
+ text-align: center;
+
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+ text-align: center;
+
+}
+
+.intro {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.get-started-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.gallery-image {
+    width: 300px;
+    height: auto;
+    margin: 0 10px;
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+.form-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.workout-container {
+    padding: 20px;
+}
+
+.workout-list {
+    display: flex;
+    flex-direction: column;
+color: black;
+}
+
+.workout-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+color: black;
+}
+
+.progress-container {
+    padding: 20px;
+}
+
+.progress-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+}
