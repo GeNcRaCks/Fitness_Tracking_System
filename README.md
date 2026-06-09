@@ -1,2 +1,3 @@
 # Fitness-Tracking-System.
 The Fitness Tracking System is based on the concept of providing users with an integrated system that will help them track their workouts as well as monitor their fitness progress and manage their exercise schedules. The system will target single users and fitness enthusiasts and a rough overview of their workout history with exercises performed as well as calories burnt will be provided via the system.
+Run this system either using xampp localhost or open directly using php server
